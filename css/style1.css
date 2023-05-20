@@ -1,6 +1,10 @@
+.home{
+  background-color: #B9A700;
+}
+
 /* Estilo da barra de navegação */
 .nav-bar {
-    background-color: #EEDB1C;
+    background-color:rgba(238, 219, 28, 0.5) ;
     height: 70px;
     display: flex;
     align-items: center;
@@ -36,7 +40,7 @@
     width: 80%;
     max-width: 1200px;
     margin: 50px auto;
-    background-color: #EEDB1C;
+    background-color: rgba(238, 219, 28, 0.5) ;
     border-radius: 10px;
     padding: 30px;
     color: #fff;
@@ -62,7 +66,7 @@
   /* Estilo das âncoras */
   #ancoras {
     margin-top: 20px;
-    background-color: #FFF274;
+    background-color:rgba(255, 242, 116, 0.5) ;
     border-radius: 30px;
     padding: 20px;
   }
@@ -81,7 +85,7 @@
   
   /* Estilo do rodapé */
   footer {
-    background-color: #EEDB1C;
+    background-color:rgba(238, 219, 28, 0.5) ;
     padding: 10px;
     text-align: center;
     color: #fff;
