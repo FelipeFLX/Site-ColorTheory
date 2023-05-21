@@ -1,5 +1,8 @@
 .home{
-  background-color: #07003D;
+  background-image: url(../imagens/fundo-teste.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 /* Estilo da barra de navegação */
