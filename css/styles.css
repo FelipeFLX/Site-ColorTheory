@@ -1,5 +1,5 @@
 .home{
-  background-image: url(../imagens/fundo-teste.jpg);
+  background-image: url(../imagens/Fundo\ Azul.png);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -7,7 +7,7 @@
 
 /* Estilo da barra de navegação */
 .nav-bar {
-    background-color:rgba(17, 30, 130, 0.5) ;
+    background-color:rgba(17, 30, 130, 0.7) ;
     height: 70px;
     display: flex;
     align-items: center;
@@ -43,7 +43,7 @@
     width: 80%;
     max-width: 1200px;
     margin: 50px auto;
-    background-color:rgba(17, 30, 130, 0.5) ;
+    background-color:rgba(17, 30, 130, 0.7) ;
     border-radius: 10px;
     padding: 30px;
     color: #fff;
@@ -69,7 +69,7 @@
   /* Estilo das âncoras */
   #ancoras {
     margin-top: 20px;
-    background-color:rgba(46, 41, 166, 0.5) ;
+    background-color:rgba(46, 41, 166, 0.7) ;
     border-radius: 30px;
     padding: 20px;
   }
@@ -88,7 +88,7 @@
   
   /* Estilo do rodapé */
   footer {
-    background-color:rgba(17, 30, 130, 0.5) ;
+    background-color:rgba(17, 30, 130, 0.7) ;
     padding: 10px;
     text-align: center;
     color: #fff;

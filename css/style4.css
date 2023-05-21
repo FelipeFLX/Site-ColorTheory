@@ -1,0 +1,107 @@
+.home{
+    background-image: url(../imagens/Fundo\ Laranja.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  /* Estilo da barra de navegação */
+  .nav-bar {
+      background-color:rgba(188, 96, 0, 0.7) ;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .logotipo {
+      margin-left: 20px;
+      height: 50px;
+      width: auto;
+    }
+    
+    .area-link {
+      display: flex;
+      align-items: center;
+      margin-right: 20px;
+    }
+    
+    .area-link a {
+      margin-right: 20px;
+      color: #fff;
+      font-size: 18px;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+    
+    .area-link a:hover {
+      color: #5F3100;
+    }
+    
+    /* Estilo do conteúdo */
+    .conteudo {
+      width: 80%;
+      max-width: 1200px;
+      margin: 50px auto;
+      background-color:rgba(188, 96, 0, 0.7) ;
+      border-radius: 10px;
+      padding: 30px;
+      color: #fff;
+      text-align: center;
+    }
+    
+    .titulo-experimento {
+      font-size: 30px;
+      margin-bottom: 20px;
+    }
+    
+    .texto-disco {
+      font-size: 18px;
+      margin-bottom: 20px;
+      line-height: 1.5;
+    }
+    
+    .subtitulo {
+      font-size: 24px;
+      margin-top: 40px;
+    }
+    
+    /* Estilo das âncoras */
+    #ancoras {
+      margin-top: 20px;
+      background-color:rgba(255, 131, 0, 0.7) ;
+      border-radius: 30px;
+      padding: 20px;
+    }
+
+    .conteudo-video{
+        margin-top: 20px;
+      background-color:rgba(255, 131, 0, 0.7) ;
+      border-radius: 30px;
+      padding: 20px;
+    }
+    
+    .link-ancora {
+      display: block;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+      margin-bottom: 10px;
+    }
+    
+    .link-ancora:hover {
+      color: #5F3100;
+    }
+    
+    /* Estilo do rodapé */
+    footer {
+      background-color:rgba(188, 96, 0, 0.7) ;
+      padding: 10px;
+      text-align: center;
+      color: #fff;
+      font-size: 14px;
+    }
+    
+    .rodape p {
+      margin: 0;
+    }
